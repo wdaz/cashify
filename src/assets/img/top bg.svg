@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="600" viewBox="0 0 1400 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34373e;
+      }
+    </style>
+  </defs>
+  <path id="top_bg" data-name="top bg" class="cls-1" d="M0,0H1400V400L450.087,535.7,322.344,553.951,0,600Z"/>
+</svg>

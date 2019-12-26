@@ -1,0 +1,43 @@
+@font-face {
+  font-family: AbrilFatface;
+  src: local(AbrilFatface-Regular),
+    url(/path/to/AbrilFatface-Regular.woff2) format("woff2"),
+    url(/path/to/AbrilFatface-Regular.woff) format("woff"),
+    url(/path/to/AbrilFatface-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Asap;
+  src: local(Asap-Bold),
+    url(/path/to/Asap-Bold.woff2) format("woff2"),
+    url(/path/to/Asap-Bold.woff) format("woff"),
+    url(/path/to/Asap-Bold.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Lato;
+  src: local(Lato-Regular),
+    url(/path/to/Lato-Regular.woff2) format("woff2"),
+    url(/path/to/Lato-Regular.woff) format("woff"),
+    url(/path/to/Lato-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: Lato;
+  src: local(Lato-Bold),
+    url(/path/to/Lato-Bold.woff2) format("woff2"),
+    url(/path/to/Lato-Bold.woff) format("woff"),
+    url(/path/to/Lato-Bold.ttf) format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+}
